@@ -38,6 +38,8 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 
 🔧 Config located in: `/configs/Switch-01`
 
+---
+
 ### Switch-02
 ** Acting as VTP Client **
 
@@ -51,6 +53,8 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 - Set VTP mode client
 
 🔧 Config located in: `/configs/Switch-02`
+
+---
 
 ### Switch-03
 ** Acting as VTP Client **
@@ -67,6 +71,8 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 
 🔧 Config located in: `/configs/Switch-03`
 
+---
+
 ### Switch-04
 ** Acting as VTP Transparent **
 
@@ -82,6 +88,8 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 
 🔧 Config located in: `/configs/Switch-04`
 
+
+---
 
 ### Additonal Notes
 
