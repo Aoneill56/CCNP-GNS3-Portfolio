@@ -1,0 +1,18 @@
+Switch-04
+---
+vlan 10,20
+!
+vtp domain Test_Domain
+vtp mode transparent
+!
+interface Ethernet0/0
+ switchport trunk encapsulation dot1q
+ switchport trunk allowed vlan 10,20
+ switchport mode trunk
+ duplex auto
+!
+interface Ethernet0/1
+ switchport access vlan 10
+ switchport mode access
+ duplex auto
+!
