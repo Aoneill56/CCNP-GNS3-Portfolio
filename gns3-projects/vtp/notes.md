@@ -92,6 +92,7 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 ---
 
 ### Additonal Notes
+(Youtube deomstration video - https://www.youtube.com/watch?v=1XqEt7MAZN4&t=12s)
 
 - Used MorbaXterm and selected the Switches and executed commands via 'Multi Exec' mode to speed things up
 - Opted to not use DHCP for sake of simplicity and initial size of the VTP lab
