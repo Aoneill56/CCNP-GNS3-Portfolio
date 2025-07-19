@@ -94,5 +94,5 @@ In reference to the network diagram provided, I configured 4 switches and a rout
 ### Additonal Notes
 
 - Used MorbaXterm and selected the Switches and executed commands via 'Multi Exec' mode to speed things up
-- Opted to not used DHCP for sake of simplicity and size of the VTP lab
+- Opted to not use DHCP for sake of simplicity and initial size of the VTP lab
 - Configured Webterm (Docker based VMs) - with static IPs, Subnet masks and Default gateways (Pointed towards the apprpiate sub-interfaces for VLAN tagging)
